@@ -1,0 +1,12 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "c994b9fd-6086-4b5c-a04b-95fa38db8671")
+	(paper "A4")
+	(title_block
+		(company "Mulibu-FlyingK")
+		(comment 1 "Christoph Dittmann")
+	)
+	(lib_symbols)
+)

@@ -1,0 +1,204 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "debe1772-aab7-43ab-90e3-ccb079116aa6")
+	(paper "A4")
+	(title_block
+		(company "Mulibu-FlyingK")
+		(comment 1 "Christoph Dittmann")
+	)
+	(lib_symbols)
+	(polyline
+		(pts
+			(xy 100.33 72.39) (xy 100.33 96.52)
+		)
+		(stroke
+			(width 1)
+			(type default)
+			(color 0 0 255 1)
+		)
+		(uuid "2d82879d-07fb-4d71-a9fe-1a633c9c8724")
+	)
+	(polyline
+		(pts
+			(xy 214.63 71.12) (xy 214.63 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2fe4de06-80c2-4b3a-8260-73c9d25ea951")
+	)
+	(polyline
+		(pts
+			(xy 176.53 96.52) (xy 214.63 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41ae239c-2b7f-4d4f-9edf-9fe39114b324")
+	)
+	(polyline
+		(pts
+			(xy 113.03 60.96) (xy 189.23 60.96)
+		)
+		(stroke
+			(width 2)
+			(type default)
+			(color 0 0 255 1)
+		)
+		(uuid "5ddcdb35-d0e4-498f-b99a-fff1605842b5")
+	)
+	(polyline
+		(pts
+			(xy 100.33 96.52) (xy 129.54 96.52)
+		)
+		(stroke
+			(width 1)
+			(type default)
+			(color 0 0 255 1)
+		)
+		(uuid "6aa7d659-a755-4031-ab78-6341e7ecb6b1")
+	)
+	(polyline
+		(pts
+			(xy 88.9 72.39) (xy 88.9 127)
+		)
+		(stroke
+			(width 2)
+			(type default)
+			(color 0 0 255 1)
+		)
+		(uuid "7afbeb16-71db-4909-b586-2096bbe8b47b")
+	)
+	(polyline
+		(pts
+			(xy 113.03 135.89) (xy 153.67 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8105e23f-4f3b-4687-b32d-a699fa72140b")
+	)
+	(polyline
+		(pts
+			(xy 153.67 107.95) (xy 153.67 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d311f224-6657-4c2c-bc16-eddb22d03651")
+	)
+	(rectangle
+		(start 188.976 49.784)
+		(end 235.966 71.374)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 1545245d-a8d7-46b1-bbe4-4360de4cc7ec)
+	)
+	(rectangle
+		(start 65.786 127.254)
+		(end 112.776 148.844)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 2abe875a-5803-4ab0-bcd3-666ea1f1761b)
+	)
+	(rectangle
+		(start 129.286 86.614)
+		(end 176.276 108.204)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid bee4408d-f94f-49af-b4ea-fe2b63d00a7c)
+	)
+	(rectangle
+		(start 65.786 51.054)
+		(end 112.776 72.644)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid dd0642bb-cbc9-495e-b7ac-85631a003377)
+	)
+	(text "Power Delivery"
+		(exclude_from_sim no)
+		(at 88.9 62.23 0)
+		(effects
+			(font
+				(size 4 4)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "3807f686-fd40-49d0-a536-bebc498e7b48")
+	)
+	(text "Chain Counter"
+		(exclude_from_sim no)
+		(at 212.09 60.96 0)
+		(effects
+			(font
+				(size 4 4)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "3c1d008b-7f27-4b25-9b75-8f6528b852b4")
+	)
+	(text "Block Diagram"
+		(exclude_from_sim no)
+		(at 143.256 19.812 0)
+		(effects
+			(font
+				(size 8 8)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "69d2c3b5-15a4-4dd3-822c-e75d7385edf3")
+	)
+	(text "MCU"
+		(exclude_from_sim no)
+		(at 152.4 97.79 0)
+		(effects
+			(font
+				(size 4 4)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "e9ba3cb9-bc9d-492b-b529-ab0ec82bf51d")
+	)
+	(text "Chain Relay"
+		(exclude_from_sim no)
+		(at 88.9 138.43 0)
+		(effects
+			(font
+				(size 4 4)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "fefe8ac4-0a8a-49ba-abce-fdf85ac2402d")
+	)
+)
